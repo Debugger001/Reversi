@@ -1,2 +1,2 @@
 # Reversi
-自己写的具有简单AI算法的翻转棋程序
+A C-language program playing the Reversi chess with simple AI algorithm.
